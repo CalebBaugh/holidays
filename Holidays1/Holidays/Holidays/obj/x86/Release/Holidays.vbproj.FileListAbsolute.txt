@@ -1,0 +1,9 @@
+E:\Computing Tasks\Candidate\Holidays\Holidays\Holidays\bin\Release\Holidays.exe
+E:\Computing Tasks\Candidate\Holidays\Holidays\Holidays\bin\Release\Holidays.pdb
+E:\Computing Tasks\Candidate\Holidays\Holidays\Holidays\bin\Release\Holidays.xml
+E:\Computing Tasks\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.Holidays.resources
+E:\Computing Tasks\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.Resources.resources
+E:\Computing Tasks\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.vbproj.GenerateResource.Cache
+E:\Computing Tasks\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.exe
+E:\Computing Tasks\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.xml
+E:\Computing Tasks\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.pdb
